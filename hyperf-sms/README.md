@@ -15,4 +15,4 @@ $ php bin/hyperf.php start
 
 # 说明
 
-- 本项目用于合约交易逻辑 
+- 本项目用于短信发送 
